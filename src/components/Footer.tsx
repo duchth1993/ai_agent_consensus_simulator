@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
         </div>
         
         <a
-          href="https://github.com/endless"
+          href="https://github.com/endless-labs"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-4 py-2 bg-deep-blue/50 hover:bg-deep-blue rounded-lg transition-colors text-sm text-gray-300 hover:text-white"
